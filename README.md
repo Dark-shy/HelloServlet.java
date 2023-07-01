@@ -2,6 +2,8 @@
 主要实现了基本的登陆注册功能，购物车。
 还有 留言板，成语接龙的功能
 前端采用bootstrap框架
+###### [/采用ssm升级版本](https://github.com/Dark-shy/java_ssm_store)
+***
 ### 登录页
 ![屏幕截图_20230111_223349](https://github.com/Dark-shy/HelloServlet.java/assets/87113684/a2c782bc-e6a7-461a-9203-5190a6420309)
 ![屏幕截图_20230112_091523](https://github.com/Dark-shy/HelloServlet.java/assets/87113684/8ed45a97-d19e-472a-8731-74a32bb0d93f)
