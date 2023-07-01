@@ -1,0 +1,16 @@
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('8806', 'LiNing 韦德之道9 中国风', 'ABAR119-10', '1689');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('7760', 'LiNing 韦德之道9 lce Blood', 'ABAR119-8', '1099');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('528', 'LiNing 韦德之道9 Bruce Lee', 'ABAR119-11', '919');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('2879', 'LiNing 韦德之道9 阳光之州', 'ABAR119-9', '779');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('5087', 'Nike KD12 白红', 'AR4230-600', '1299');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('1257', 'Nike KD12 纯黑', 'AR4230-003', '1499');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('6012', 'Nike KD12 午夜蓝', 'CN9518-402', '1649');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('8528', 'Nike KD12 Don C', 'CD4979-900', '2009');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('5210', 'Nike KD 13 Aunt Pearl', 'DC0012-600', '1599');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('6257', 'Nike KD 13 蓝', 'C19949-400', '1209');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('8470', 'Nike KD 13 Tie-Dye', 'DC0007-400', '1109');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('576', 'Nike KD 13 花卉', 'DA1340-100', '1349');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('4491', 'Nike PG 3 Paulette', 'AO2607-901', '1579');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('6252', 'Nike PG 3 Mamba', 'AO2607-900', '1389');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('9674', 'Nike PG 3 Nasa', 'AO2607-800', '1429');
+INSERT INTO shopping.goods (id, name, number, price) VALUES ('826', 'Nike PG 3 宇航员', 'C12667-40', '1569');
